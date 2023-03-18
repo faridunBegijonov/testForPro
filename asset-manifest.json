@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c08997a.css",
+    "main.js": "/static/js/main.1b9bc314.js",
+    "static/media/siyomaVideo.mp4": "/static/media/siyomaVideo.c3e7f4c16f74184f001d.mp4",
+    "static/media/banner2.mp4": "/static/media/banner2.5972efae0f4dd7b93fc8.mp4",
+    "static/media/projects 1.png": "/static/media/projects 1.688a20dc00f12db26f51.png",
+    "static/media/BackGround 1 (2).png": "/static/media/BackGround 1 (2).efd3bb315d44ad486c44.png",
+    "static/media/1 (4).png": "/static/media/1 (4).12a979408ca2b62a265d.png",
+    "static/media/1 (2).png": "/static/media/1 (2).bdaa121705fdc0ec5bea.png",
+    "static/media/1.png": "/static/media/1.530af5cd13a3e5d91e8c.png",
+    "static/media/1 (3).png": "/static/media/1 (3).d3f2cd58c867d95a26e3.png",
+    "static/media/siyoma.jpg": "/static/media/siyoma.76dcef0aa05ff4b12c13.jpg",
+    "static/media/170143242_925935738222029__n.jpg": "/static/media/170143242_925935738222029_831840086750805585_n.a85a7127598012e3ce1c.jpg",
+    "static/media/169842933_446730686414394__n.jpg": "/static/media/169842933_446730686414394_273079884435098033_n.81276ad28de29d25f5ce.jpg",
+    "static/media/Magz.png": "/static/media/Magz.b117747f5631f94228cb.png",
+    "static/media/logomagz 1.png": "/static/media/logomagz 1.964451fd137900e00aa9.png",
+    "index.html": "/index.html",
+    "main.7c08997a.css.map": "/static/css/main.7c08997a.css.map",
+    "main.1b9bc314.js.map": "/static/js/main.1b9bc314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c08997a.css",
+    "static/js/main.1b9bc314.js"
+  ]
+}
